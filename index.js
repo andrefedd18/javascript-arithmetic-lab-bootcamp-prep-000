@@ -1,4 +1,4 @@
-var number =
+var number = 2
 function add(){
-  number += 179 
+  number += 1 
 }
