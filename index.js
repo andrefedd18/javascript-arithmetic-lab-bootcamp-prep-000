@@ -1,4 +1,4 @@
-var add(2, 1) 
-function add(){
-  return number += 960
+var number= 2  
+function add2(){
+  return number += 2
 }
