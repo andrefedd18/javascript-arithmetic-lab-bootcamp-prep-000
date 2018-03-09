@@ -1,4 +1,4 @@
-var number= 1+2; 
+var number; 
 function add2(string){
   return number = 3
 }
